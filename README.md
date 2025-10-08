@@ -1,6 +1,6 @@
 ## Hi there! 👋🏻
 
-I'm <a href="https://www.kassm.me">Mohammed</a>, a Software Developer at [PwC](https://pwc.com) and blogger at [blog.kassm.me](https://blog.kassm.me). 
+I'm <a href="https://www.kassm.me">Mohammed</a>, a Software Developer and blogger at [blog.kassm.me](https://blog.kassm.me). 
 
 I'm passionate about building staff, with a focus on distributed systems, web security, and open source :octocat:. You can see some of my projects that I have started and maintained in my [portfolio](https://www.kassm.me/). Interested in making life easier by creating utility tools. I've also made contributions to various other projects, which you can explore on my GitHub profile.<br/>
 
