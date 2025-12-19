@@ -1,8 +1,8 @@
 ## Hi there! 👋🏻
 
-I'm <a href="https://www.kassm.me">Mohammed</a>, a Software Developer and blogger at [blog.kassm.me](https://blog.kassm.me). 
+I'm <a href="https://www.mohamedkassem.xyz">Mohammed</a>, a Software Developer and blogger at [blog.mohamedkassem.xyz](https://blog.mohamedkassem.xyz). 
 
-I'm passionate about building staff, with a focus on distributed systems, web security, and open source :octocat:. You can see some of my projects that I have started and maintained in my [portfolio](https://www.kassm.me/). Interested in making life easier by creating utility tools. I've also made contributions to various other projects, which you can explore on my GitHub profile.<br/>
+I'm passionate about building staff, with a focus on distributed systems, web security, and open source :octocat:. You can see some of my projects that I have started and maintained in my [portfolio](https://www.mohamedkassem.xyz/). Interested in making life easier by creating utility tools. I've also made contributions to various other projects, which you can explore on my GitHub profile.<br/>
 
 <!--[![twitter badge](https://img.shields.io/badge/-@maboelkassim-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/maboelkassim)-->
 [![dev.to badge](https://img.shields.io/badge/-mkassm-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mkassm)
@@ -22,7 +22,7 @@ I'm passionate about building staff, with a focus on distributed systems, web se
 - 😄 Pronouns: ... He
 
 <br>
-<a href="https://www.kassm.me/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=mkassm&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkassm&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a>
+<a href="https://www.mohamedkassem.xyz/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=mkassm&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkassm&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a>
 
 <!--START_SECTION:waka-->
 
