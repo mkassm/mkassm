@@ -2,7 +2,7 @@
 
 I'm <a href="https://www.mohamedkassem.xyz">Mohammed</a>, a Software Developer and blogger at [blog.mohamedkassem.xyz](https://blog.mohamedkassem.xyz). 
 
-I'm passionate about building staff, with a focus on distributed systems, web security, and open source :octocat:. You can see some of my projects that I have started and maintained in my [portfolio](https://www.mohamedkassem.xyz/). Interested in making life easier by creating utility tools. I've also made contributions to various other projects, which you can explore on my GitHub profile.<br/>
+I'm passionate about building staff, with a focus on distributed systems, web security, and open source :octocat:. You can see some of my projects that I have started and maintained in my [portfolio](https://www.mohamedkassem.xyz/). Interested in making life easier by creating utility tools and solve complex problems using technologies. I've also made contributions to various other projects, which you can explore on my GitHub profile.<br/>
 
 <!--[![twitter badge](https://img.shields.io/badge/-@maboelkassim-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/maboelkassim)-->
 [![dev.to badge](https://img.shields.io/badge/-mkassm-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mkassm)
